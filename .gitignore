@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+
+# Un-ignore specific files in root
+!.gitignore
+!CollabCrawler.py
+!fixlinks.py
+
+# Un-ignore specific directories
+!other/
+!other/**
