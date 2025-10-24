@@ -77,7 +77,7 @@ def crawl(url, base_domain, base_path, output_dir='site_download', depth=0, max_
     try:
         # Copy the cookie from your browser
         cookies = {
-            "JSESSIONID": "c2c6df62-1fc1-4ff5-9098-d4c37a750a2e.collab20-prod-orange.6.iolpujd4xlwx2c62ptsuvlpxn"
+            "JSESSIONID": "secret cookie"
         }
         headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
